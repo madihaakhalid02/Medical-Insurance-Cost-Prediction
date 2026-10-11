@@ -22,7 +22,7 @@ The model was evaluated using standard regression performance metrics:
 ## 💻 How to Run Locally
 
 ### Step 1: Clone the Repository
-git clone [https://github.com/YOUR-USERNAME/Medical-Insurance-Cost-Prediction.git](https://github.com/madihaakhalid02/Medical-Insurance-Cost-Prediction.git)
+git clone [https://github.com/madihaakhalid02/Medical-Insurance-Cost-Prediction.git](https://github.com/madihaakhalid02/Medical-Insurance-Cost-Prediction.git)
 
 ### Step 2: Install Dependencies
 pip install pandas scikit-learn streamlit matplotlib seaborn
